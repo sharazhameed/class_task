@@ -1,0 +1,28 @@
+.container {
+  margin-top: 80px;
+  height: 60vh;
+}
+.card_mine {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 40%;
+}
+a {
+  text-decoration: none;
+}
+p,
+label {
+  font-size: 18px;
+}
+.btn_me {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #2a2b2a;
+  padding: 15px 30px;
+  font-size: 22px;
+  cursor: pointer;
+  text-align: center;
+}
